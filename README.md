@@ -12,7 +12,7 @@ Software Engineering Student | Cybersecurity Specialization | Full-Stack & Syste
 Soy Ingeniero de Software especializado en Ciberseguridad, apasionado por el desarrollo de software en todas sus capas — desde sistemas de bajo nivel hasta aplicaciones web. También me gusta crear software que resuelva problemas cotidianos de las personas, automatizando tareas para facilitar su día a día. En el ámbito de la seguridad, me interesa entender cómo los atacantes comprometen sistemas y redes, y aplicar ese conocimiento para construir software más resiliente.
 
 **EN:**
-I'm a Software Engineering student specializing in Cybersecurity, passionate about building software across the full stack — from low-level systems to web applications. I also enjoy creating software that solves everyday problems, automating tasks to make people's daily lives easier. On the security side, I'm interested in understanding how attackers compromise systems and networks, and applying that knowledge to build more resilient software.
+I'm a Software Engineering specializing in Cybersecurity, passionate about building software across the full stack — from low-level systems to web applications. I also enjoy creating software that solves everyday problems, automating tasks to make people's daily lives easier. On the security side, I'm interested in understanding how attackers compromise systems and networks, and applying that knowledge to build more resilient software.
 
 ---
 
