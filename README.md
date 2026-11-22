@@ -29,10 +29,6 @@ I'm a Software Engineering specializing in Cybersecurity, passionate about build
 
 ### Tech Stack
 
-**Languages**
-¡Perfecto Manuel! Buena combinación — full-stack moderno + herramientas de pentesting reales. Aquí va el bloque completo con los badges para que lo pegues directamente en tu README:
-markdown### ⚡ Stack Técnico | Technical Toolkit
-
 **Lenguajes | Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
